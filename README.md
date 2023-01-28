@@ -51,6 +51,6 @@ Mostly css styling
 
 ## Author
 
-- Website - [Aloba Tobiloba](https://www.your-site.com)
+- Website - [Aloba Tobiloba](https://mr-duckworth.github.io/Aloba-Tobiloba-/)
 - Frontend Mentor - [Mr-Duckworth](https://www.frontendmentor.io/profile/Mr-Duckworth)
 - Twitter - [@yourusername](https://www.twitter.com/ALife_OfPain)
