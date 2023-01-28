@@ -35,8 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://mr-duckworth.github.io/product-preview-card/)
 
 ## My process
 My process is pretty simple, started out with html by breaking the whole code into divs and classing each divs and adding every needed html elements
